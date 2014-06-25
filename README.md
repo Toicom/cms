@@ -1,4 +1,0 @@
-cms
-===
-
-Custom Cms
